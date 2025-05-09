@@ -26,7 +26,7 @@ A simple HTML template for better display of user information.
 # Installation Steps
 1. Download the template file:
 ```sh
-sudo wget -N -P /var/lib/marzban/templates/subscription/ https://raw.githubusercontent.com/x0sina/marzban-sub/main/index.html
+sudo wget -N -P /var/lib/marzban/templates/subscription/ https://raw.githubusercontent.com/mohamadpython/marzban-sub/main/index.html
 ```
 
 2.	Run the following commands in your server terminal:
